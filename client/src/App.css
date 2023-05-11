@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    padding: auto;
+}
+.App input {
+    scale: 1.5;
+    margin: 25px 100px 100px 100px;
+}
+
+.App button {
+    scale: 1.5;
+}
